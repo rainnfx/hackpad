@@ -38,6 +38,6 @@ Here should be everything you need to make this hackpad
 - 4x M3x5x4 Heatset inserts
 - 4x M3x16mm SHCS Bolts
 - 6x [MMSD4148T1G](https://www.digikey.ca/en/products/detail/onsemi/mmsd4148t1g/919705) Diodes.
-- 1x EC11 Rotary Encoder
+- 1x [EC11E15204A3](https://www.digikey.ca/en/products/detail/alps-alpine/ec11e15204a3/21721644)
 - 1x XIAO RP2040
 - 1x Case (3 printed parts)
